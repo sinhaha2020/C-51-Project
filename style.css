@@ -1,0 +1,56 @@
+.one{
+    color: blue;
+    background-color: crimson;
+    border: 5px solid lightgreen;
+} 
+
+.two{
+    color: violet;
+}
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.main img
+{
+    border: 5px dashed lawngreen;
+    border-radius: 50px;
+}
+
+.camel{
+    border: 5px solid cyan;
+}
+
+.chameleon{
+    border: 5px solid cyan;
+}
+
+.cicada{
+    border: 5px solid cyan;
+}
+
+.panda{
+    border: 5px solid cyan;
+}
+
+.pigeon{
+    border: 5px solid cyan;
+}
+
+.teddy{
+    border: 5px solid cyan;
+}
+
+.footer{
+    padding: 200px;
+}
+
+body{
+    margin: 0px;
+    background-color: #f7f2f2;
+}
+
+
